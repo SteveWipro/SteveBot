@@ -1,0 +1,16 @@
+{
+  "name": "SteveBot",
+  "version": "1.0",
+  "authors": [
+    "Steve",
+    "SteveBot"
+  ],
+  "description": "My Test Bot",
+  "homepage": "",
+  "countryCodes": [
+    "uk",
+    "ind"
+  ],
+  "platform": "JVM",
+  "programmingLang": "Java 11"
+}
